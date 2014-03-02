@@ -1,0 +1,327 @@
+.html
+{
+    background: #7F7F7F url("../images/index.jpg") repeat left top scroll;
+}
+ 
+#page
+{
+    z-index: 1;
+    width: 960px;
+    min-height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+#ppu83
+{
+    width: 0.01px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: -36px;
+    left: -100px;
+}
+ 
+#pu83
+{
+    width: 0.01px;
+    padding-bottom: 88px;
+    position: relative;
+}
+ 
+#u83
+{
+    z-index: 48;
+    width: 1160px;
+    height: 86px;
+    top: 2px;
+    left: 50%;
+    margin-left: -50%;
+}
+ 
+#u82-4
+{
+    z-index: 85;
+    top: 22px;
+    left: 50%;
+    margin-left: -569px;
+}
+ 
+#u360
+{
+    z-index: 90;
+    width: 1160px;
+    height: 8px;
+    top: 0px;
+    left: 50%;
+    margin-left: -50%;
+}
+ 
+#u359
+{
+    z-index: 89;
+    width: 1160px;
+    height: 8px;
+    top: 82px;
+    left: 50%;
+    margin-left: -50%;
+}
+ 
+#u229
+{
+    z-index: 2;
+    width: 920px;
+    -pie-box-shadow: 0px -52px 22px #7F7F7F;
+    -moz-box-shadow: 0px -52px 22px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0px -52px 22px -1px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px -52px 22px rgba(0, 0, 0, 0.5);
+    border-color: #000000;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: -36px;
+    left: 20px;
+    background: #FFFFFF url("../images/crumpled-paper-texture.jpg") no-repeat left top;
+}
+ 
+#u235
+{
+    z-index: 3;
+    width: 819px;
+    border-color: #000000;
+    background-color: #FFFFFF;
+    position: relative;
+    margin-right: -10000px;
+    left: 10px;
+    padding: 116px 41px 14.100000000000023px;
+}
+ 
+#u234-4
+{
+    z-index: 27;
+    display: block;
+    vertical-align: top;
+    margin-left: 5px;
+    position: relative;
+}
+ 
+#u228-7
+{
+    z-index: 4;
+    width: 720px;
+    min-height: 43px;
+    line-height: 14px;
+    font-size: 12px;
+    font-style: italic;
+    margin-left: 66px;
+    margin-top: 7px;
+    position: relative;
+}
+ 
+#u233-16
+{
+    z-index: 11;
+    width: 819px;
+    min-height: 286px;
+    font-size: 12px;
+    line-height: 20px;
+    left: -1px;
+    margin-top: 23px;
+    position: relative;
+}
+ 
+#u237-16
+{
+    z-index: 31;
+    width: 819px;
+    min-height: 286px;
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: 14px;
+    position: relative;
+}
+ 
+#pmenuu110
+{
+    width: 0.01px;
+    padding-bottom: 74px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: -28px;
+    left: 182px;
+}
+ 
+#menuu110
+{
+    z-index: 49;
+    width: 878px;
+    top: 34px;
+    left: 50%;
+    margin-left: -298px;
+}
+ 
+#u118
+{
+    width: 174px;
+    min-height: 34px;
+    margin-right: -10000px;
+}
+ 
+#u121
+{
+    width: 174px;
+    padding-bottom: 1px;
+}
+ 
+#u121.MuseMenuActive
+{
+    margin: 0px;
+}
+ 
+#u111
+{
+    width: 174px;
+    min-height: 34px;
+    margin-right: -10000px;
+    left: 176px;
+}
+ 
+#u153
+{
+    width: 174px;
+    min-height: 34px;
+    margin-right: -10000px;
+    left: 352px;
+}
+ 
+#u160
+{
+    width: 174px;
+    min-height: 34px;
+    margin-right: -10000px;
+    left: 528px;
+}
+ 
+#u167
+{
+    width: 174px;
+    min-height: 34px;
+    margin-right: -10000px;
+    left: 704px;
+}
+ 
+#u114,#u156,#u161,#u170
+{
+    width: 174px;
+}
+ 
+#u123,#u115,#u157,#u162,#u173
+{
+    height: 33px;
+    width: 174px;
+    margin-right: -10000px;
+}
+ 
+#u369
+{
+    z-index: 91;
+    width: 1px;
+    height: 74px;
+    top: 8px;
+    left: 50%;
+    margin-left: -114px;
+}
+ 
+#u370
+{
+    z-index: 92;
+    width: 1px;
+    height: 74px;
+    top: 8px;
+    left: 50%;
+    margin-left: -113px;
+}
+ 
+#u371
+{
+    z-index: 93;
+    width: 1px;
+    height: 74px;
+    top: 8px;
+    left: 50%;
+    margin-left: 47px;
+}
+ 
+#u372
+{
+    z-index: 94;
+    width: 1px;
+    height: 74px;
+    top: 8px;
+    left: 50%;
+    margin-left: 48px;
+}
+ 
+#u373
+{
+    z-index: 95;
+    width: 1px;
+    height: 74px;
+    top: 8px;
+    left: 50%;
+    margin-left: 230px;
+}
+ 
+#u374
+{
+    z-index: 96;
+    width: 1px;
+    height: 74px;
+    top: 8px;
+    left: 50%;
+    margin-left: 231px;
+}
+ 
+#u375
+{
+    z-index: 97;
+    width: 1px;
+    height: 74px;
+    top: 8px;
+    left: 50%;
+    margin-left: 398px;
+}
+ 
+#u376
+{
+    z-index: 98;
+    width: 1px;
+    height: 74px;
+    top: 8px;
+    left: 50%;
+    margin-left: 399px;
+}
+ 
+#u347
+{
+    z-index: 47;
+    width: 1160px;
+    height: 94px;
+    border-color: #000000;
+    background-color: #383838;
+    position: relative;
+    margin-bottom: -94px;
+    margin-right: -10000px;
+    margin-top: 800px;
+    left: -100px;
+}
+ 
+body
+{
+    padding-top: 36px;
+    padding-bottom: 94px;
+}
+ 
+#page .verticalspacer
+{
+    clear: both;
+    margin-bottom: -799px;
+}
